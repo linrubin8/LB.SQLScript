@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQLConfig", "SQLConfig", "{9C9304C0-06AA-4554-9585-5915F4E3B42C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\QuarrySQL\LB.SQL\SQLConfig\ScriptSQL.txt = ..\..\QuarrySQL\LB.SQL\SQLConfig\ScriptSQL.txt
+		..\..\QuarrySQL\LB.SQL\SQLConfig\SysConstConfigSQL.txt = ..\..\QuarrySQL\LB.SQL\SQLConfig\SysConstConfigSQL.txt
+		..\..\QuarrySQL\LB.SQL\SQLConfig\SysSPType.txt = ..\..\QuarrySQL\LB.SQL\SQLConfig\SysSPType.txt
+		..\..\QuarrySQL\LB.SQL\SQLConfig\SysViewType.txt = ..\..\QuarrySQL\LB.SQL\SQLConfig\SysViewType.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "View", "View", "{88119562-F8D4-43A2-9B30-00F6EFEC6636}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\QuarrySQL\LB.SQL\View\dbo.Db_v_ReportTemplate.txt = ..\..\QuarrySQL\LB.SQL\View\dbo.Db_v_ReportTemplate.txt
+		..\..\QuarrySQL\LB.SQL\View\dbo.Db_v_UserPermissionData.txt = ..\..\QuarrySQL\LB.SQL\View\dbo.Db_v_UserPermissionData.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
